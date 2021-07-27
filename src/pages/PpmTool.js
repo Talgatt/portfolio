@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function ProjectOne() {
+export default function PpmTool() {
   return (
     <div>
       {/* <!--Introduction--> */}

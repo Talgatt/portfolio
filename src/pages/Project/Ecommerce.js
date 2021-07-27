@@ -1,33 +1,31 @@
 import React from "react";
 
-export default function ProjectTwo() {
+export default function Ecommerce() {
   return (
     <div>
       {/* <!--Introduction--> */}
       <section className="intro">
         <h1 className="section__title section__title--intro">
-          Search
+          E-commerce
           <strong>
-            Github Users <br />
+            <br />
           </strong>
         </h1>
         <p className="section__subtitle section__subtitle--intro">
-          junior developer
+          Full-Stack Developer
         </p>
-        <img
-          src="img/github-users-login.png"
-          alt="portfolio"
-          className="intro__img"
-        />
+        <img src="img/ecomm1.jpeg" alt="portfolio" className="intro__img" />
       </section>
 
       <div className="portfolio-item-individual">
         <p>
-          This web application is a tool to search github users. <br />
-          Technologies used: <br />
-          - React / Redux, CSS <br />
+          E-commerce website
+          <br />
+          <br />
+          <strong> Technologies used:</strong> <br />
+          - React / Redux <br />- Express, Node.js <br /> - MongoDB
         </p>
-        <img src="img/github-users.jpg" alt="" />
+        <img src="img/ecomm2.png" alt="" />
         <br />
 
         <div className="access-projects">
@@ -36,7 +34,7 @@ export default function ProjectTwo() {
           </a>
 
           <a
-            href="https://search-github-users-netlify.netlify.app/login"
+            href="https://github.com/Talgatt/e-commerce"
             className="btn github"
           >
             Github

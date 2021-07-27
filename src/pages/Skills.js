@@ -12,16 +12,16 @@ export default function Skills() {
 
             <p>
               Java <br />
-              <i class="fab fa-java"></i>
+              {/* <i class="fab fa-java"></i> */}
             </p>
             <p>
               Javascript <br />
-              <i class="fab fa-js"></i>
+              {/* <i class="fab fa-js"></i> */}
             </p>
 
             <p>
               CSS <br />
-              <i class="fab fa-css3-alt"></i>
+              {/* <i class="fab fa-css3-alt"></i> */}
             </p>
             <p>C++</p>
             <p>SQL</p>
@@ -45,11 +45,11 @@ export default function Skills() {
             <p>MongoDB</p>
             <p>
               Docker <br />
-              <i class="fab fa-docker"></i>
+              {/* <i class="fab fa-docker"></i> */}
             </p>
             <p>
               GIT <br />
-              <i class="fab fa-git-alt"></i>
+              {/* <i class="fab fa-git-alt"></i> */}
             </p>
           </div>
           {/* <!-- / service--> */}

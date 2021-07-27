@@ -4,10 +4,11 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Main from "./pages/Main";
 import Footer from "./components/Footer";
-import ProjectOne from "./pages/ProjectOne";
-import ProjectTwo from "./pages/ProjectTwo";
-import Careshare from "./pages/Careshare";
-import Ecommerce from "./pages/Ecommerce";
+import Careshare from "./pages/Project/Careshare";
+import Ecommerce from "./pages/Project/Ecommerce";
+import AwsImageUpload from "./pages/Project/AwsImageUpload";
+import PpmTool from "./pages/PpmTool";
+import GithubUsers from "./pages/Project/GithubUsers";
 
 function App() {
   return (
@@ -19,10 +20,11 @@ function App() {
       <main>
         <Switch>
           <Route path="/" component={Main} exact></Route>
-          <Route path="/project1" component={ProjectOne} />
-          <Route path="/project2" component={ProjectTwo} />
+          <Route path="/ppmtool" component={PpmTool} />
+          <Route path="/github_users" component={GithubUsers} />
           <Route path="/careshare" component={Careshare} />
           <Route path="/ecommerce" component={Ecommerce} />
+          <Route path="/awsimageupload" component={AwsImageUpload} />
         </Switch>
       </main>
       <footer>

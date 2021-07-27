@@ -12,37 +12,37 @@ export default function Projects() {
         </p>
         <div className="portfolio">
           {/* <!-- Portfolio item 01 --> */}
-          <Link to="/project1">
+          <Link to="/ppmtool">
             <img src="img/ppmtool.jpeg" alt="" className="portfolio__img" />
           </Link>
 
           {/* <!-- Portfolio item 02 --> */}
 
-          <Link to="/project2">
+          <Link to="/github_users">
             <img
               src="img/github-users.png"
-              alt="Not Working"
+              alt="github users"
               className="portfolio__img"
             />
           </Link>
           <Link to="/careshare">
             <img
               src="img/care-share1.jpg"
-              alt="Not Working"
+              alt="care share"
               className="portfolio__img"
             />
           </Link>
           <Link to="/ecommerce">
             <img
               src="img/ecomm1.jpeg"
-              alt="Not Working"
+              alt="e-commerce"
               className="portfolio__img"
             />
           </Link>
-          <Link to="/techstore">
+          <Link to="/awsimageupload">
             <img
-              src="img/ecomm1.jpeg"
-              alt="Not Working"
+              src="img/aws-image-upload.jpg"
+              alt="aws"
               className="portfolio__img"
             />
           </Link>

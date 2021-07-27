@@ -11,12 +11,12 @@ export default function About() {
 
         <div className="about-me__body">
           <p>
-            Experienced controls software design engineer pivoted career towards
-            web development. Looking for web development opportunities - front,
-            back, full-stack developer roles. Recently graduated with Master's
-            in Software Engineering and Intelligent Systems from University of
-            Alberta. I also have a Bachelor in Computer Engineering with Honours
-            from the University of Toronto.
+            Experienced controls software design engineer pivoting career
+            towards web development. Looking for web development opportunities -
+            front, back, full-stack developer roles. Recently graduated with
+            Master's in Software Engineering and Intelligent Systems from
+            University of Alberta. I also have a Bachelor in Computer
+            Engineering with Honours from the University of Toronto.
           </p>
         </div>
 
