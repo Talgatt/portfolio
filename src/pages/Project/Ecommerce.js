@@ -11,9 +11,7 @@ export default function Ecommerce() {
             <br />
           </strong>
         </h1>
-        <p className="section__subtitle section__subtitle--intro">
-          Full-Stack Developer
-        </p>
+        <p className="section__subtitle section__subtitle--intro">engineer</p>
         <img src="img/ecomm1.jpeg" alt="portfolio" className="intro__img" />
       </section>
 
