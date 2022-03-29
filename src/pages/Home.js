@@ -9,7 +9,7 @@ export default function Home() {
           Hi, I am <strong>Talgat Tulegenov</strong>
         </h1>
         <p className="section__subtitle section__subtitle--intro">
-          junior developer
+          Controls Design Engineer
         </p>
         <img src="img/devtal.jpg" alt="Me" className="intro__img" />
       </section>
