@@ -8,9 +8,7 @@ export default function AwsImageUpload() {
         <h1 className="section__title section__title--intro">
           <strong>AWS Image Upload</strong> <br /> application
         </h1>
-        <p className="section__subtitle section__subtitle--intro">
-          junior developer
-        </p>
+        <p className="section__subtitle section__subtitle--intro">engineer</p>
         <img
           src="img/aws-image-upload.jpg"
           alt="portfolio"
