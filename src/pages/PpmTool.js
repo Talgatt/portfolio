@@ -12,9 +12,7 @@ export default function PpmTool() {
             Tool
           </strong>
         </h1>
-        <p className="section__subtitle section__subtitle--intro">
-          junior developer
-        </p>
+        <p className="section__subtitle section__subtitle--intro">engineer</p>
         <img
           // /Users/talgattulegenov/MERN/portfolio/src/img/ppm-tool-login.png
           src="img/ppm-tool-login.png"

@@ -11,9 +11,7 @@ export default function GithubUsers() {
             Github Users <br />
           </strong>
         </h1>
-        <p className="section__subtitle section__subtitle--intro">
-          junior developer
-        </p>
+        <p className="section__subtitle section__subtitle--intro">engineer</p>
         <img
           src="img/github-users-login.png"
           alt="portfolio"
